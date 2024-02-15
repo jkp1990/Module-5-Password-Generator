@@ -1,3 +1,5 @@
+// git pull origin main --allow-unrelated-histories
+
 // Array of special characters to be included in password
 var specialCharacters = [
   '@',
